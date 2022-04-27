@@ -1,8 +1,17 @@
 from requests import Session
-from config import us
 import json
+import pandas as pd
 
-
+us =  {
+    "base": "https://leetcode.com/",
+    "graphql": "https://leetcode.com/graphql",
+    "problemsAll": "https://leetcode.com/api/problems/all/",
+    "problem": "https://leetcode.com/problems/$slug",
+    "submit": "https://leetcode.com/problems/$slug/submit/",
+    "login": "https://leetcode.com/accounts/login/",
+    "profile": lambda x: "https://leetcode.com/%s " %(x),
+    "submission": "https://leetcode.com/submissions/detail/$id/",
+}
 class Graphql_API:
     def __init__(self, username, password, resolve=us):
 
@@ -52,3 +61,22 @@ class Graphql_API:
         s = self.session.post(self.api["graphql"], headers=hd, data=op)
 
         return json.loads(s.content)["data"]["recentSubmissionList"]
+
+if __name__ == '__main__':
+    username = 'xxx'
+    password = 'xxx'
+    model = Graphql_API(username, password)
+
+    submitData = model.getRecentSubs(username)
+    question_set = set()
+    for record in submitData:
+        question_set.add(record['title'])
+
+    #
+    # for question in question_set:
+    #   print(question)
+
+    dataFrame = pd.DataFrame(question_set, columns=['Question'])
+    dataFrame['Company'] = pd.Series(["Facebook" for i in range(len(dataFrame.index))])
+    dataFrame.to_csv("result.csv", sep=',', index=False)
+    count_dict = {}

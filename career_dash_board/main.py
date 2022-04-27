@@ -14,6 +14,7 @@ if __name__ == '__main__':
     # preprocess the alumni data to sort it by alumni count
     alumni_df = pd.read_csv('./data_source/alumni.csv')
     alumni_df = alumni_df.sort_values(by=['alumni_count'])
+    leetcode_df = pd.read_csv('./data_source/leetcode_data.csv')
 
     # preprocess the salary data for entry-level SDE salary
     salary_df = pd.read_csv('./data_source/company_salary_info.csv')
@@ -24,5 +25,6 @@ if __name__ == '__main__':
     ia.get_CMU_alumnus_firms(merged_data)
     ia.get_CMU_influence_firms(alumni_df)  # focus on CMU
     ia.get_cmu_and_other_school(alumni_df)
+    ia.get_leetcode_data(leetcode_df)
 
 

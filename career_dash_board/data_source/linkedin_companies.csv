@@ -1,0 +1,211 @@
+company,university/region,alumni_count
+Meta,United States,57208
+Meta,San Francisco Bay Area,26818
+Meta,Greater Seattle Area,8568
+Meta,Greater New York City Area,7299
+Meta,United Kingdom,6735
+Meta,"London, United Kingdom",4236
+Meta,India,3116
+Meta,Ireland,2862
+Meta,Brazil,2812
+Meta,"Austin, Texas Area",2513
+Meta,Greater Los Angeles Area,2466
+Meta,Singapore,2153
+Meta,Canada,1335
+Meta,Washington D.C. Metro Area,1311
+Meta,Israel,1084
+Meta,"University of California, Berkeley",2198
+Meta,Stanford University,1943
+Meta,University of Washington,1478
+Meta,Carnegie Mellon University,1372
+Meta,"University of California, Los Angeles",1302
+Meta,University of Southern California,1294
+Meta,San Jose State University,1059
+Meta,Georgia Institute of Technology,1037
+Meta,Cornell University,1007
+Meta,The University of Texas at Austin,1004
+Meta,University of Illinois Urbana-Champaign,1001
+Meta,Columbia University in the City of New York,972
+Meta,New York University,930
+Meta,Harvard University,817
+Meta,The Wharton School,427
+Amazon,India,359115
+Amazon,United States,312568
+Amazon,Greater Seattle Area,61011
+Amazon,United Kingdom,39848
+Amazon,Greater New York City Area,22912
+Amazon,United Arab Emirates,22404
+Amazon,Pakistan,21398
+Amazon,San Francisco Bay Area,20122
+Amazon,Canada,19675
+Amazon,Greater Los Angeles Area,15098
+Amazon,"Bengaluru Area, India",14888
+Amazon,Washington D.C. Metro Area,13692
+Amazon,"Hyderabad Area, India",11941
+Amazon,"London, United Kingdom",8703
+Amazon,"New Delhi Area, India",6697
+Amazon,University of Washington,6674
+Amazon,University of Southern California,3298
+Amazon,University of Mumbai,3253
+Amazon,"University of California, Berkeley",2533
+Amazon,Delhi University,2405
+Amazon,"Birla Institute of Technology and Science, Pilani",2404
+Amazon,Savitribai Phule Pune University,2360
+Amazon,Kendriya Vidyalaya,2233
+Amazon,Northeastern University,2173
+Amazon,Stanford University,1823
+Amazon,Massachusetts Institute of Technology,1544
+Amazon,Columbia University in the City of New York,1514
+Amazon,University of Wisconsin-Madison,1158
+Amazon,Harvard Business School,803
+Amazon,Indian School of Business,741
+Apple,United States,116748
+Apple,India,92012
+Apple,San Francisco Bay Area,46219
+Apple,United Kingdom,11532
+Apple,United Arab Emirates,8728
+Apple,"Austin, Texas Area",8387
+Apple,Greater New York City Area,6698
+Apple,Greater Los Angeles Area,6038
+Apple,Canada,5535
+Apple,"London, United Kingdom",3216
+Apple,Israel,2834
+Apple,Greater Seattle Area,2106
+Apple,Greater San Diego Area,2004
+Apple,"Bengaluru Area, India",979
+Apple,"Hyderabad Area, India",976
+Apple,Stanford University,2446
+Apple,San Jose State University,2295
+Apple,"University of California, Berkeley",2184
+Apple,The University of Texas at Austin,1585
+Apple,"University of California, Los Angeles",1546
+Apple,University of Southern California,1484
+Apple,Georgia Institute of Technology,1066
+Apple,Carnegie Mellon University,1010
+Apple,Massachusetts Institute of Technology,932
+Apple,University of Illinois Urbana-Champaign,913
+Apple,University of Michigan,905
+Apple,Texas A&M University,807
+Apple,Cornell University,770
+Apple,Purdue University,707
+Apple,"Birla Institute of Technology and Science, Pilani",522
+Google,United States,110793
+Google,San Francisco Bay Area,50680
+Google,India,33787
+Google,Greater New York City Area,15898
+Google,Brazil,12064
+Google,United Kingdom,10944
+Google,Greater Seattle Area,7989
+Google,Canada,5526
+Google,Ireland,4871
+Google,"London, United Kingdom",4772
+Google,Singapore,3198
+Google,"Austin, Texas Area",2750
+Google,"Bengaluru Area, India",2676
+Google,"New Delhi Area, India",2490
+Google,"Hyderabad Area, India",1894
+Google,"University of California, Berkeley",4657
+Google,Stanford University,4468
+Google,Carnegie Mellon University,2843
+Google,University of Southern California,2348
+Google,Massachusetts Institute of Technology,2057
+Google,New York University,1853
+Google,Columbia University in the City of New York,1717
+Google,Harvard University,1552
+Google,The Wharton School,1239
+Google,Harvard Business School,883
+Google,"Birla Institute of Technology and Science, Pilani",859
+Google,Stanford University Graduate School of Business,828
+Google,Delhi University,784
+Google,Kendriya Vidyalaya,636
+Google,Indian School of Business,372
+Microsoft,United States,114215
+Microsoft,Greater Seattle Area,62223
+Microsoft,India,25400
+Microsoft,United Kingdom,7402
+Microsoft,San Francisco Bay Area,5862
+Microsoft,"Hyderabad Area, India",5283
+Microsoft,"Bengaluru Area, India",5270
+Microsoft,Canada,5008
+Microsoft,Germany,4190
+Microsoft,Greater New York City Area,3620
+Microsoft,Washington D.C. Metro Area,3604
+Microsoft,Israel,3013
+Microsoft,France,2947
+Microsoft,"New Delhi Area, India",1960
+Microsoft,Singapore,1925
+Microsoft,University of Washington,7184
+Microsoft,"Birla Institute of Technology and Science, Pilani",1350
+Microsoft,University of Mumbai,1270
+Microsoft,Stanford University,1191
+Microsoft,"University of California, Berkeley",1183
+Microsoft,Cornell University,1011
+Microsoft,Massachusetts Institute of Technology,988
+Microsoft,Kendriya Vidyalaya,935
+Microsoft,Harvard University,789
+Microsoft,INSEAD,778
+Microsoft,Northwestern University - Kellogg School of Management,700
+Microsoft,Vellore Institute of Technology,556
+Microsoft,The Wharton School,545
+Microsoft,Harvard Business School,430
+Microsoft,Indian School of Business,383
+Salesforce,United States,39017
+Salesforce,San Francisco Bay Area,10506
+Salesforce,India,6671
+Salesforce,United Kingdom,3325
+Salesforce,Greater New York City Area,2801
+Salesforce,Canada,2684
+Salesforce,Greater Chicago Area,2489
+Salesforce,Australia,2412
+Salesforce,Ireland,2400
+Salesforce,Germany,1816
+Salesforce,"London, United Kingdom",1816
+Salesforce,France,1776
+Salesforce,Greater Atlanta Area,1684
+Salesforce,"Hyderabad Area, India",1629
+Salesforce,"Paris Area, France",1244
+Salesforce,Trailhead by Salesforce,1002
+Salesforce,"University of California, Berkeley",958
+Salesforce,University of Washington,799
+Salesforce,Indiana University Bloomington,659
+Salesforce,Stanford University,543
+Salesforce,University of Illinois Urbana-Champaign,496
+Salesforce,University of Mumbai,442
+Salesforce,The University of Texas at Austin,432
+Salesforce,Technological University Dublin,387
+Salesforce,University College Dublin,357
+Salesforce,Cornell University,340
+Salesforce,Kendriya Vidyalaya,248
+Salesforce,Harvard Business School Online,242
+Salesforce,Harvard Business School,214
+Salesforce,INSEAD,179
+Adobe,United States,15578
+Adobe,India,7532
+Adobe,San Francisco Bay Area,6638
+Adobe,"Bengaluru Area, India",1889
+Adobe,"New Delhi Area, India",1651
+Adobe,United Kingdom,1334
+Adobe,"Noida Area, India",1237
+Adobe,"Provo, Utah Area",1096
+Adobe,Greater New York City Area,1091
+Adobe,Romania,848
+Adobe,Greater Salt Lake City Area,840
+Adobe,Germany,728
+Adobe,Australia,647
+Adobe,"London, United Kingdom",529
+Adobe,"Sydney, Australia",499
+Adobe,Brigham Young University,655
+Adobe,San Jose State University,505
+Adobe,"University of California, Berkeley",496
+Adobe,University POLITEHNICA of Bucharest,411
+Adobe,Delhi University,342
+Adobe,Stanford University,338
+Adobe,Utah Valley University,331
+Adobe,University of Utah,284
+Adobe,"Birla Institute of Technology and Science, Pilani",248
+Adobe,Kendriya Vidyalaya,246
+Adobe,Guru Gobind Singh Indraprastha University,186
+Adobe,Santa Clara University,185
+Adobe,University of Southern California,185
+Adobe,"University of California, Berkeley, Haas School of Business",164
+Adobe,Netaji Subhas Institute of Technology,145

@@ -48,9 +48,12 @@ if __name__ == '__main__':
     # interact with the user for visualizations
     visual_interaction()
 
-    print("\n\nPlease choose a company you are most interested in: ")
-    company = input()
+    
+    company_name = input("Enter the Company Name you interested in:  ")
+    company_set = {"Google", "Facebook", "Microsoft", "Amazon"}
+    if company_name not in company_set:
+        print("Sorry, we don't have the questions of " + company_name)
+    else:
+        ia.get_leetcode_data(leetcode_df, company_name)
 
-
-    lca.get_leetcode_data(leetcode_df)
 

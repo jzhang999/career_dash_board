@@ -1,0 +1,1477 @@
+﻿Question,Company
+Max Points on a Line,Google
+Evaluate Reverse Polish Notation,Google
+Maximum Product Subarray,Google
+Find Minimum in Rotated Sorted Array,Google
+Min Stack,Google
+Read N Characters Given Read4,Google
+Read N Characters Given Read4 II - Call multiple times,Google
+Longest Substring with At Most Two Distinct Characters,Google
+Intersection of Two Linked Lists,Google
+Find Peak Element,Google
+Missing Ranges,Google
+Compare Version Numbers,Google
+Fraction to Recurring Decimal,Google
+Two Sum II - Input array is sorted,Google
+Excel Sheet Column Title,Google
+Majority Element,Google
+Excel Sheet Column Number,Google
+Binary Search Tree Iterator,Google
+Dungeon Game,Google
+Nth Highest Salary,Google
+Employees Earning More Than Their Managers,Google
+Best Time to Buy and Sell Stock IV,Google
+Reverse Bits,Google
+Word Frequency,Google
+House Robber,Google
+Number of Islands,Google
+Happy Number,Google
+Remove Linked List Elements,Google
+Count Primes,Google
+Isomorphic Strings,Google
+Reverse Linked List,Google
+Course Schedule,Google
+Implement Trie (Prefix Tree),Google
+Minimum Size Subarray Sum,Google
+Course Schedule II,Google
+Design Add and Search Words Data Structure,Google
+Word Search II,Google
+Shortest Palindrome,Google
+Kth Largest Element in an Array,Google
+Combination Sum III,Google
+The Skyline Problem,Google
+Contains Duplicate II,Google
+Contains Duplicate III,Google
+Maximal Square,Google
+Count Complete Tree Nodes,Google
+Basic Calculator,Google
+Invert Binary Tree,Google
+Basic Calculator II,Google
+Summary Ranges,Google
+Majority Element II,Google
+Palindrome Linked List,Google
+Lowest Common Ancestor of a Binary Tree,Google
+Delete Node in a Linked List,Google
+Product of Array Except Self,Google
+Sliding Window Maximum,Google
+Search a 2D Matrix II,Google
+Different Ways to Add Parentheses,Google
+Valid Anagram,Google
+Shortest Word Distance,Google
+Strobogrammatic Number,Google
+Strobogrammatic Number II,Google
+Strobogrammatic Number III,Google
+Group Shifted Strings,Google
+Count Univalue Subtrees,Google
+Meeting Rooms,Google
+Meeting Rooms II,Google
+Binary Tree Paths,Google
+3Sum Smaller,Google
+Palindrome Permutation II,Google
+Alien Dictionary,Google
+Encode and Decode Strings,Google
+Integer to English Words,Google
+H-Index,Google
+Paint Fence,Google
+First Bad Version,Google
+Perfect Squares,Google
+Wiggle Sort,Google
+Expression Add Operators,Google
+Move Zeroes,Google
+Peeking Iterator,Google
+Inorder Successor in BST,Google
+Walls and Gates,Google
+Find the Duplicate Number,Google
+Game of Life,Google
+Nim Game,Google
+Find Median from Data Stream,Google
+Best Meeting Point,Google
+Serialize and Deserialize Binary Tree,Google
+Binary Tree Longest Consecutive Sequence,Google
+Bulls and Cows,Google
+Longest Increasing Subsequence,Google
+Remove Invalid Parentheses,Google
+Range Sum Query - Immutable,Google
+Range Sum Query 2D - Immutable,Google
+Range Sum Query - Mutable,Google
+Range Sum Query 2D - Mutable,Google
+Best Time to Buy and Sell Stock with Cooldown,Google
+Minimum Height Trees,Google
+Sparse Matrix Multiplication,Google
+Burst Balloons,Google
+Binary Tree Vertical Order Traversal,Google
+Count of Smaller Numbers After Self,Google
+Remove Duplicate Letters,Google
+Shortest Distance from All Buildings,Google
+Maximum Product of Word Lengths,Google
+Generalized Abbreviation,Google
+Coin Change,Google
+Maximum Size Subarray Sum Equals k,Google
+Odd Even Linked List,Google
+Longest Increasing Path in a Matrix,Google
+Reconstruct Itinerary,Google
+Increasing Triplet Subsequence,Google
+Self Crossing,Google
+Palindrome Pairs,Google
+Trapping Rain Water,Google
+Multiply Strings,Google
+Wildcard Matching,Google
+Jump Game II,Google
+Permutations,Google
+Rotate Image,Google
+Group Anagrams,Google
+"Pow(x, n)",Google
+N-Queens,Google
+Subsets,Google
+Word Search,Google
+Count and Say,Google
+Combination Sum,Google
+Combination Sum II,Google
+First Missing Positive,Google
+Trapping Rain Water,Google
+Multiply Strings,Google
+Wildcard Matching,Google
+Permutations,Google
+Rotate Image,Google
+Group Anagrams,Google
+"Pow(x, n)",Google
+N-Queens,Google
+Maximum Subarray,Google
+Spiral Matrix,Google
+Jump Game,Google
+Merge Intervals,Google
+Insert Interval,Google
+Permutation Sequence,Google
+Rotate List,Google
+Unique Paths,Google
+Unique Paths II,Google
+Minimum Path Sum,Google
+Valid Number,Google
+Plus One,Google
+Add Binary,Google
+Climbing Stairs,Google
+Simplify Path,Google
+Edit Distance,Google
+Set Matrix Zeroes,Google
+Search a 2D Matrix,Google
+Sort Colors,Google
+Two Sum,Facebook
+Add Two Numbers,Facebook
+Longest Substring Without Repeating Characters,Facebook
+Median of Two Sorted Arrays,Facebook
+Longest Palindromic Substring,Facebook
+ZigZag Conversion,Facebook
+Reverse Integer,Facebook
+String to Integer (atoi),Facebook
+Regular Expression Matching,Facebook
+Container With Most Water,Facebook
+Roman to Integer,Facebook
+Longest Common Prefix,Facebook
+3Sum,Facebook
+3Sum Closest,Facebook
+Letter Combinations of a Phone Number,Facebook
+Remove Nth Node From End of List,Facebook
+Valid Parentheses,Facebook
+Merge Two Sorted Lists,Facebook
+Generate Parentheses,Facebook
+Merge k Sorted Lists,Facebook
+Swap Nodes in Pairs,Facebook
+Reverse Nodes in k-Group,Facebook
+Remove Duplicates from Sorted Array,Facebook
+Implement strStr(),Facebook
+Divide Two Integers,Facebook
+Next Permutation,Facebook
+Longest Valid Parentheses,Facebook
+Search in Rotated Sorted Array,Facebook
+Find First and Last Position of Element in Sorted Array,Facebook
+Valid Sudoku,Facebook
+Sudoku Solver,Facebook
+Count and Say,Facebook
+Combination Sum,Facebook
+Combination Sum II,Facebook
+First Missing Positive,Facebook
+Trapping Rain Water,Facebook
+Multiply Strings,Facebook
+Wildcard Matching,Facebook
+Permutations,Facebook
+Rotate Image,Facebook
+Group Anagrams,Facebook
+"Pow(x, n)",Facebook
+N-Queens,Facebook
+Maximum Subarray,Facebook
+Spiral Matrix,Facebook
+Jump Game,Facebook
+Merge Intervals,Facebook
+Insert Interval,Facebook
+Permutation Sequence,Facebook
+Rotate List,Facebook
+Unique Paths,Facebook
+Unique Paths II,Facebook
+Minimum Path Sum,Facebook
+Valid Number,Facebook
+Plus One,Facebook
+Add Binary,Facebook
+Climbing Stairs,Facebook
+Simplify Path,Facebook
+Edit Distance,Facebook
+Set Matrix Zeroes,Facebook
+Search a 2D Matrix,Facebook
+Sort Colors,Facebook
+Minimum Window Substring,Facebook
+Combinations,Facebook
+Subsets,Facebook
+Word Search,Facebook
+Search in Rotated Sorted Array II,Facebook
+Remove Duplicates from Sorted List,Facebook
+Merge Sorted Array,Facebook
+Subsets II,Facebook
+Decode Ways,Facebook
+Reverse Linked List II,Facebook
+Restore IP Addresses,Facebook
+Binary Tree Inorder Traversal,Facebook
+Unique Binary Search Trees II,Facebook
+Unique Binary Search Trees,Facebook
+Validate Binary Search Tree,Facebook
+Same Tree,Facebook
+Symmetric Tree,Facebook
+Binary Tree Level Order Traversal,Facebook
+Binary Tree Zigzag Level Order Traversal,Facebook
+Maximum Depth of Binary Tree,Facebook
+Construct Binary Tree from Preorder and Inorder Traversal,Facebook
+Convert Sorted Array to Binary Search Tree,Facebook
+Convert Sorted List to Binary Search Tree,Facebook
+Minimum Depth of Binary Tree,Facebook
+Path Sum,Facebook
+Path Sum II,Facebook
+Flatten Binary Tree to Linked List,Facebook
+Populating Next Right Pointers in Each Node,Facebook
+Populating Next Right Pointers in Each Node II,Facebook
+Pascal's Triangle,Facebook
+Best Time to Buy and Sell Stock,Facebook
+Best Time to Buy and Sell Stock II,Facebook
+Binary Tree Maximum Path Sum,Facebook
+Valid Palindrome,Facebook
+Word Ladder II,Facebook
+Word Ladder,Facebook
+Longest Consecutive Sequence,Facebook
+Sum Root to Leaf Numbers,Facebook
+Clone Graph,Facebook
+Gas Station,Facebook
+Single Number,Facebook
+Single Number II,Facebook
+Copy List with Random Pointer,Facebook
+Word Break,Facebook
+Word Break II,Facebook
+Linked List Cycle,Facebook
+Reorder List,Facebook
+Binary Tree Postorder Traversal,Facebook
+LRU Cache,Facebook
+Sort List,Facebook
+Evaluate Reverse Polish Notation,Facebook
+Reverse Words in a String,Facebook
+Maximum Product Subarray,Facebook
+Find Minimum in Rotated Sorted Array,Facebook
+Find Minimum in Rotated Sorted Array II,Facebook
+Min Stack,Facebook
+Read N Characters Given Read4,Facebook
+Read N Characters Given Read4 II - Call multiple times,Facebook
+Longest Substring with At Most Two Distinct Characters,Facebook
+Intersection of Two Linked Lists,Facebook
+One Edit Distance,Facebook
+Find Peak Element,Facebook
+Missing Ranges,Facebook
+Fraction to Recurring Decimal,Facebook
+Excel Sheet Column Title,Facebook
+Excel Sheet Column Number,Facebook
+Factorial Trailing Zeroes,Facebook
+Binary Search Tree Iterator,Facebook
+Second Highest Salary,Facebook
+Rank Scores,Facebook
+Largest Number,Facebook
+Rotate Array,Facebook
+Number of 1 Bits,Facebook
+Binary Tree Right Side View,Facebook
+Number of Islands,Facebook
+Remove Linked List Elements,Facebook
+Count Primes,Facebook
+Isomorphic Strings,Facebook
+Reverse Linked List,Facebook
+Course Schedule,Facebook
+Implement Trie (Prefix Tree),Facebook
+Minimum Size Subarray Sum,Facebook
+Course Schedule II,Facebook
+Design Add and Search Words Data Structure,Facebook
+Word Search II,Facebook
+Shortest Palindrome,Facebook
+Kth Largest Element in an Array,Facebook
+The Skyline Problem,Facebook
+Maximal Square,Facebook
+Rectangle Area,Facebook
+Basic Calculator,Facebook
+Basic Calculator II,Facebook
+Summary Ranges,Facebook
+Majority Element II,Facebook
+Kth Smallest Element in a BST,Facebook
+Palindrome Linked List,Facebook
+Lowest Common Ancestor of a Binary Search Tree,Facebook
+Lowest Common Ancestor of a Binary Tree,Facebook
+Delete Node in a Linked List,Facebook
+Product of Array Except Self,Facebook
+Sliding Window Maximum,Facebook
+Search a 2D Matrix II,Facebook
+Valid Anagram,Facebook
+Strobogrammatic Number,Facebook
+Strobogrammatic Number II,Facebook
+Group Shifted Strings,Facebook
+Meeting Rooms II,Facebook
+Binary Tree Paths,Facebook
+Single Number III,Facebook
+Palindrome Permutation,Facebook
+Missing Number,Facebook
+Alien Dictionary,Facebook
+Closest Binary Search Tree Value,Facebook
+Closest Binary Search Tree Value II,Facebook
+Integer to English Words,Facebook
+Find the Celebrity,Facebook
+First Bad Version,Facebook
+Wiggle Sort,Facebook
+Expression Add Operators,Facebook
+Move Zeroes,Facebook
+Peeking Iterator,Facebook
+Inorder Successor in BST,Facebook
+Walls and Gates,Facebook
+Find the Duplicate Number,Facebook
+Unique Word Abbreviation,Facebook
+Game of Life,Facebook
+Find Median from Data Stream,Facebook
+Serialize and Deserialize Binary Tree,Facebook
+Binary Tree Longest Consecutive Sequence,Facebook
+Longest Increasing Subsequence,Facebook
+Remove Invalid Parentheses,Facebook
+Range Sum Query - Immutable,Facebook
+Range Sum Query 2D - Immutable,Facebook
+Number of Islands II,Facebook
+Range Sum Query - Mutable,Facebook
+Range Sum Query 2D - Mutable,Facebook
+Best Time to Buy and Sell Stock with Cooldown,Facebook
+Sparse Matrix Multiplication,Facebook
+Burst Balloons,Facebook
+Binary Tree Vertical Order Traversal,Facebook
+Remove Duplicate Letters,Facebook
+Shortest Distance from All Buildings,Facebook
+Bulb Switcher,Facebook
+Coin Change,Facebook
+Number of Connected Components in an Undirected Graph,Facebook
+Wiggle Sort II,Facebook
+Maximum Size Subarray Sum Equals k,Facebook
+Odd Even Linked List,Facebook
+Longest Increasing Path in a Matrix,Facebook
+Reconstruct Itinerary,Facebook
+Largest BST Subtree,Facebook
+Increasing Triplet Subsequence,Facebook
+Palindrome Pairs,Facebook
+Counting Bits,Facebook
+Nested List Weight Sum,Facebook
+Longest Substring with At Most K Distinct Characters,Facebook
+Flatten Nested List Iterator,Facebook
+Reverse String,Facebook
+Reverse Vowels of a String,Facebook
+Moving Average from Data Stream,Facebook
+Top K Frequent Elements,Facebook
+Design Tic-Tac-Toe,Facebook
+Intersection of Two Arrays,Facebook
+Intersection of Two Arrays II,Facebook
+Data Stream as Disjoint Intervals,Facebook
+Rearrange String k Distance Apart,Facebook
+Nested List Weight Sum II,Facebook
+Find K Pairs with Smallest Sums,Facebook
+Kth Smallest Element in a Sorted Matrix,Facebook
+Insert Delete GetRandom O(1),Facebook
+Insert Delete GetRandom O(1) - Duplicates allowed,Facebook
+Shuffle an Array,Facebook
+First Unique Character in a String,Facebook
+Longest Absolute File Path,Facebook
+Is Subsequence,Facebook
+Decode String,Facebook
+Longest Substring with At Least K Repeating Characters,Facebook
+Random Pick Index,Facebook
+Evaluate Division,Facebook
+Nth Digit,Facebook
+Frog Jump,Facebook
+Convert a Number to Hexadecimal,Facebook
+Queue Reconstruction by Height,Facebook
+Valid Word Abbreviation,Facebook
+Split Array Largest Sum,Facebook
+Third Maximum Number,Facebook
+Add Strings,Facebook
+Partition Equal Subset Sum,Facebook
+Pacific Atlantic Water Flow,Facebook
+Battleships in a Board,Facebook
+Longest Repeating Character Replacement,Facebook
+Convert Binary Search Tree to Sorted Doubly Linked List,Facebook
+Serialize and Deserialize N-ary Tree,Facebook
+Flatten a Multilevel Doubly Linked List,Facebook
+All O`one Data Structure,Facebook
+Non-overlapping Intervals,Facebook
+Path Sum III,Facebook
+Find All Anagrams in a String,Facebook
+Find All Duplicates in an Array,Facebook
+String Compression,Facebook
+Add Two Numbers II,Facebook
+Serialize and Deserialize BST,Facebook
+Delete Node in a BST,Facebook
+Minimum Number of Arrows to Burst Balloons,Facebook
+Island Perimeter,Facebook
+Validate IP Address,Facebook
+Concatenated Words,Facebook
+Sliding Window Median,Facebook
+Robot Room Cleaner,Facebook
+The Maze,Facebook
+Increasing Subsequences,Facebook
+Target Sum,Facebook
+Next Greater Element I,Facebook
+Diagonal Traverse,Facebook
+Next Greater Element II,Facebook
+The Maze II,Facebook
+Fibonacci Number,Facebook
+Find Largest Value in Each Tree Row,Facebook
+Longest Palindromic Subsequence,Facebook
+Continuous Subarray Sum,Facebook
+Contiguous Array,Facebook
+Random Pick with Weight,Facebook
+Minesweeper,Facebook
+Construct Binary Tree from String,Facebook
+Single Element in a Sorted Array,Facebook
+Diameter of Binary Tree,Facebook
+Friend Circles,Facebook
+Split Array with Equal Sum,Facebook
+Binary Tree Longest Consecutive Sequence II,Facebook
+Game Play Analysis IV,Facebook
+Next Greater Element III,Facebook
+Subarray Sum Equals K,Facebook
+Permutation in String,Facebook
+Maximum Vacation Days,Facebook
+Subtree of Another Tree,Facebook
+Valid Square,Facebook
+Friend Requests I: Overall Acceptance Rate,Facebook
+Can Place Flowers,Facebook
+Find Duplicate File in System,Facebook
+Valid Triangle Number,Facebook
+Second Degree Follower,Facebook
+Add Bold Tag in String,Facebook
+Task Scheduler,Facebook
+Design Circular Queue,Facebook
+Exclusive Time of Functions,Facebook
+Average of Levels in Binary Tree,Facebook
+Palindromic Substrings,Facebook
+Two Sum IV - Input is a BST,Facebook
+Find K Closest Elements,Facebook
+Maximum Width of Binary Tree,Facebook
+Trim a Binary Search Tree,Facebook
+Maximum Swap,Facebook
+Longest Continuous Increasing Subsequence,Facebook
+Implement Magic Dictionary,Facebook
+Valid Parenthesis String,Facebook
+24 Game,Facebook
+Valid Palindrome II,Facebook
+Next Closest Time,Facebook
+Repeated String Match,Facebook
+Maximum Sum of 3 Non-Overlapping Subarrays,Facebook
+Top K Frequent Words,Facebook
+Number of Distinct Islands,Facebook
+Max Area of Island,Facebook
+Partition to K Equal Sum Subsets,Facebook
+Kth Largest Element in a Stream,Facebook
+Design HashMap,Facebook
+Insert into a Sorted Circular Linked List,Facebook
+Max Stack,Facebook
+Accounts Merge,Facebook
+Candy Crush,Facebook
+Find Pivot Index,Facebook
+Flood Fill,Facebook
+Closest Leaf in a Binary Tree,Facebook
+Open the Lock,Facebook
+Employee Free Time,Facebook
+Partition Labels,Facebook
+Toeplitz Matrix,Facebook
+Reorganize String,Facebook
+Basic Calculator III,Facebook
+Sliding Puzzle,Facebook
+Split BST,Facebook
+Swim in Rising Water,Facebook
+Is Graph Bipartite?,Facebook
+Cheapest Flights Within K Stops,Facebook
+Rotated Digits,Facebook
+Custom Sort String,Facebook
+Goat Latin,Facebook
+Friends Of Appropriate Ages,Facebook
+Making A Large Island,Facebook
+Similar String Groups,Facebook
+Backspace String Compare,Facebook
+Peak Index in a Mountain Array,Facebook
+Exam Room,Facebook
+Mirror Reflection,Facebook
+Buddy Strings,Facebook
+All Nodes Distance K in Binary Tree,Facebook
+Smallest Subtree with all the Deepest Nodes,Facebook
+Koko Eating Bananas,Facebook
+Uncommon Words from Two Sentences,Facebook
+Possible Bipartition,Facebook
+Super Egg Drop,Facebook
+Monotonic Array,Facebook
+Sort Array By Parity,Facebook
+Maximum Sum Circular Subarray,Facebook
+Minimum Add to Make Parentheses Valid,Facebook
+Shortest Bridge,Facebook
+Knight Dialer,Facebook
+Stamping The Sequence,Facebook
+Range Sum of BST,Facebook
+Minimum Area Rectangle,Facebook
+Verifying an Alien Dictionary,Facebook
+Check Completeness of a Binary Tree,Facebook
+Maximum Width Ramp,Facebook
+Minimum Area Rectangle II,Facebook
+Pancake Sorting,Facebook
+K Closest Points to Origin,Facebook
+Subarray Sums Divisible by K,Facebook
+Squares of a Sorted Array,Facebook
+Distribute Coins in Binary Tree,Facebook
+Minimum Cost For Tickets,Facebook
+Interval List Intersections,Facebook
+Vertical Order Traversal of a Binary Tree,Facebook
+Cousins in Binary Tree,Facebook
+Minimum Number of K Consecutive Bit Flips,Facebook
+Find the Town Judge,Facebook
+Max Consecutive Ones III,Facebook
+Construct Binary Search Tree from Preorder Traversal,Facebook
+Next Greater Node In Linked List,Facebook
+Maximum Difference Between Node and Ancestor,Facebook
+Longest Arithmetic Subsequence,Facebook
+Stream of Characters,Facebook
+Remove All Adjacent Duplicates In String,Facebook
+Previous Permutation With One Swap,Facebook
+Shortest Way to Form String,Facebook
+Campus Bikes,Facebook
+Missing Element in Sorted Array,Facebook
+Longest Repeating Substring,Facebook
+Shortest Path in Binary Matrix,Facebook
+Car Pooling,Facebook
+Defanging an IP Address,Facebook
+Lowest Common Ancestor of Deepest Leaves,Facebook
+Reported Posts II,Facebook
+N-th Tribonacci Number,Facebook
+Longest Common Subsequence,Facebook
+Snapshot Array,Facebook
+As Far from Land as Possible,Facebook
+Minimum Knight Moves,Facebook
+Remove All Adjacent Duplicates in String II,Facebook
+Intersection of Three Sorted Arrays,Facebook
+Valid Palindrome III,Facebook
+Path with Maximum Gold,Facebook
+Remove Sub-Folders from the Filesystem,Facebook
+Web Crawler Multithreaded,Facebook
+Tree Diameter,Facebook
+Minimum Remove to Make Valid Parentheses,Facebook
+Number of Closed Islands,Facebook
+Print Immutable Linked List in Reverse,Facebook
+Minimum Time Visiting All Points,Facebook
+Number of Ways to Stay in the Same Place After Some Steps,Facebook
+Find Winner on a Tic Tac Toe Game,Facebook
+Element Appearing More Than 25% In Sorted Array,Facebook
+Find N Unique Integers Sum up to Zero,Facebook
+All Elements in Two Binary Search Trees,Facebook
+Angle Between Hands of a Clock,Facebook
+Number of Days Between Two Dates,Facebook
+Validate Binary Tree Nodes,Facebook
+Find a Corresponding Node of a Binary Tree in a Clone of That Tree,Facebook
+Number of Ways to Paint N × 3 Grid,Facebook
+Diagonal Traverse II,Facebook
+Leftmost Column with at Least a One,Facebook
+Find the Kth Smallest Sum of a Matrix With Sorted Rows,Facebook
+Make Two Arrays Equal by Reversing Sub-arrays,Facebook
+Number of Subsequences That Satisfy the Given Sum Condition,Facebook
+Shuffle String,Facebook
+Kth Missing Positive Number,Facebook
+Dot Product of Two Sparse Vectors,Facebook
+Two Sum,Facebook
+Add Two Numbers,Facebook
+Longest Substring Without Repeating Characters,Facebook
+Median of Two Sorted Arrays,Facebook
+Longest Palindromic Substring,Facebook
+ZigZag Conversion,Facebook
+Reverse Integer,Facebook
+String to Integer (atoi),Facebook
+Palindrome Number,Facebook
+Regular Expression Matching,Facebook
+Container With Most Water,Facebook
+Integer to Roman,Facebook
+Roman to Integer,Facebook
+Longest Common Prefix,Facebook
+3Sum,Facebook
+3Sum Closest,Facebook
+Letter Combinations of a Phone Number,Facebook
+Valid Parentheses,Facebook
+Merge Two Sorted Lists,Facebook
+Generate Parentheses,Facebook
+Merge k Sorted Lists,Facebook
+Swap Nodes in Pairs,Facebook
+Remove Duplicates from Sorted Array,Facebook
+Implement strStr(),Facebook
+Divide Two Integers,Facebook
+Substring with Concatenation of All Words,Facebook
+Next Permutation,Facebook
+Longest Valid Parentheses,Facebook
+Search in Rotated Sorted Array,Facebook
+Find First and Last Position of Element in Sorted Array,Facebook
+Search Insert Position,Facebook
+Valid Sudoku,Facebook
+Sudoku Solver,Facebook
+Two Sum,Microsoft
+Add Two Numbers,Microsoft
+Longest Substring Without Repeating Characters,Microsoft
+Median of Two Sorted Arrays,Microsoft
+Longest Palindromic Substring,Microsoft
+ZigZag Conversion,Microsoft
+Reverse Integer,Microsoft
+String to Integer (atoi),Microsoft
+Palindrome Number,Microsoft
+Regular Expression Matching,Microsoft
+Container With Most Water,Microsoft
+Roman to Integer,Microsoft
+Longest Common Prefix,Microsoft
+3Sum,Microsoft
+3Sum Closest,Microsoft
+Letter Combinations of a Phone Number,Microsoft
+4Sum,Microsoft
+Remove Nth Node From End of List,Microsoft
+Valid Parentheses,Microsoft
+Merge Two Sorted Lists,Microsoft
+Generate Parentheses,Microsoft
+Merge k Sorted Lists,Microsoft
+Swap Nodes in Pairs,Microsoft
+Reverse Nodes in k-Group,Microsoft
+Remove Duplicates from Sorted Array,Microsoft
+Implement strStr(),Microsoft
+Next Permutation,Microsoft
+Longest Valid Parentheses,Microsoft
+Search in Rotated Sorted Array,Microsoft
+Find First and Last Position of Element in Sorted Array,Microsoft
+Search Insert Position,Microsoft
+Valid Sudoku,Microsoft
+Sudoku Solver,Microsoft
+Count and Say,Microsoft
+Combination Sum,Microsoft
+Combination Sum II,Microsoft
+First Missing Positive,Microsoft
+Trapping Rain Water,Microsoft
+Multiply Strings,Microsoft
+Wildcard Matching,Microsoft
+Jump Game II,Microsoft
+Permutations,Microsoft
+Rotate Image,Microsoft
+Group Anagrams,Microsoft
+"Pow(x, n)",Microsoft
+N-Queens,Microsoft
+Maximum Subarray,Microsoft
+Spiral Matrix,Microsoft
+Jump Game,Microsoft
+Merge Intervals,Microsoft
+Spiral Matrix II,Microsoft
+Rotate List,Microsoft
+Unique Paths,Microsoft
+Unique Paths II,Microsoft
+Minimum Path Sum,Microsoft
+Text Justification,Microsoft
+Sqrt(x),Microsoft
+Climbing Stairs,Microsoft
+Edit Distance,Microsoft
+Set Matrix Zeroes,Microsoft
+Search a 2D Matrix,Microsoft
+Sort Colors,Microsoft
+Minimum Window Substring,Microsoft
+Combinations,Microsoft
+Subsets,Microsoft
+Word Search,Microsoft
+Remove Duplicates from Sorted List II,Microsoft
+Remove Duplicates from Sorted List,Microsoft
+Largest Rectangle in Histogram,Microsoft
+Maximal Rectangle,Microsoft
+Merge Sorted Array,Microsoft
+Gray Code,Microsoft
+Decode Ways,Microsoft
+Reverse Linked List II,Microsoft
+Restore IP Addresses,Microsoft
+Binary Tree Inorder Traversal,Microsoft
+Unique Binary Search Trees,Microsoft
+Validate Binary Search Tree,Microsoft
+Recover Binary Search Tree,Microsoft
+Same Tree,Microsoft
+Symmetric Tree,Microsoft
+Binary Tree Level Order Traversal,Microsoft
+Binary Tree Zigzag Level Order Traversal,Microsoft
+Maximum Depth of Binary Tree,Microsoft
+Construct Binary Tree from Preorder and Inorder Traversal,Microsoft
+Construct Binary Tree from Inorder and Postorder Traversal,Microsoft
+Convert Sorted Array to Binary Search Tree,Microsoft
+Balanced Binary Tree,Microsoft
+Path Sum II,Microsoft
+Flatten Binary Tree to Linked List,Microsoft
+Populating Next Right Pointers in Each Node,Microsoft
+Populating Next Right Pointers in Each Node II,Microsoft
+Pascal's Triangle,Microsoft
+Best Time to Buy and Sell Stock,Microsoft
+Best Time to Buy and Sell Stock II,Microsoft
+Best Time to Buy and Sell Stock III,Microsoft
+Binary Tree Maximum Path Sum,Microsoft
+Valid Palindrome,Microsoft
+Word Ladder II,Microsoft
+Word Ladder,Microsoft
+Longest Consecutive Sequence,Microsoft
+Sum Root to Leaf Numbers,Microsoft
+Palindrome Partitioning,Microsoft
+Clone Graph,Microsoft
+Gas Station,Microsoft
+Candy,Microsoft
+Single Number,Microsoft
+Copy List with Random Pointer,Microsoft
+Word Break,Microsoft
+Word Break II,Microsoft
+Linked List Cycle,Microsoft
+Linked List Cycle II,Microsoft
+Reorder List,Microsoft
+Binary Tree Preorder Traversal,Microsoft
+Binary Tree Postorder Traversal,Microsoft
+LRU Cache,Microsoft
+Sort List,Microsoft
+Max Points on a Line,Microsoft
+Evaluate Reverse Polish Notation,Microsoft
+Reverse Words in a String,Microsoft
+Maximum Product Subarray,Microsoft
+Find Minimum in Rotated Sorted Array,Microsoft
+Min Stack,Microsoft
+Read N Characters Given Read4 II - Call multiple times,Microsoft
+Longest Substring with At Most Two Distinct Characters,Microsoft
+Intersection of Two Linked Lists,Microsoft
+Find Peak Element,Microsoft
+Compare Version Numbers,Microsoft
+Fraction to Recurring Decimal,Microsoft
+Excel Sheet Column Title,Microsoft
+Majority Element,Microsoft
+Excel Sheet Column Number,Microsoft
+Binary Search Tree Iterator,Microsoft
+Largest Number,Microsoft
+Reverse Words in a String II,Microsoft
+Repeated DNA Sequences,Microsoft
+Rotate Array,Microsoft
+House Robber,Microsoft
+Binary Tree Right Side View,Microsoft
+Number of Islands,Microsoft
+Happy Number,Microsoft
+Count Primes,Microsoft
+Isomorphic Strings,Microsoft
+Reverse Linked List,Microsoft
+Course Schedule,Microsoft
+Implement Trie (Prefix Tree),Microsoft
+Minimum Size Subarray Sum,Microsoft
+Course Schedule II,Microsoft
+Word Search II,Microsoft
+Shortest Palindrome,Microsoft
+Kth Largest Element in an Array,Microsoft
+Contains Duplicate,Microsoft
+The Skyline Problem,Microsoft
+Contains Duplicate II,Microsoft
+Maximal Square,Microsoft
+Count Complete Tree Nodes,Microsoft
+Basic Calculator,Microsoft
+Implement Stack using Queues,Microsoft
+Invert Binary Tree,Microsoft
+Basic Calculator II,Microsoft
+Summary Ranges,Microsoft
+Implement Queue using Stacks,Microsoft
+Palindrome Linked List,Microsoft
+Lowest Common Ancestor of a Binary Search Tree,Microsoft
+Lowest Common Ancestor of a Binary Tree,Microsoft
+Product of Array Except Self,Microsoft
+Sliding Window Maximum,Microsoft
+Search a 2D Matrix II,Microsoft
+Valid Anagram,Microsoft
+Shortest Word Distance,Microsoft
+Meeting Rooms,Microsoft
+Meeting Rooms II,Microsoft
+Palindrome Permutation,Microsoft
+Missing Number,Microsoft
+Alien Dictionary,Microsoft
+Closest Binary Search Tree Value,Microsoft
+Encode and Decode Strings,Microsoft
+Integer to English Words,Microsoft
+Find the Celebrity,Microsoft
+First Bad Version,Microsoft
+Perfect Squares,Microsoft
+Expression Add Operators,Microsoft
+Move Zeroes,Microsoft
+Peeking Iterator,Microsoft
+Inorder Successor in BST,Microsoft
+Walls and Gates,Microsoft
+Find the Duplicate Number,Microsoft
+Word Pattern,Microsoft
+Find Median from Data Stream,Microsoft
+Serialize and Deserialize Binary Tree,Microsoft
+Bulls and Cows,Microsoft
+Longest Increasing Subsequence,Microsoft
+Range Sum Query - Immutable,Microsoft
+Sparse Matrix Multiplication,Microsoft
+Binary Tree Vertical Order Traversal,Microsoft
+Count of Smaller Numbers After Self,Microsoft
+Shortest Distance from All Buildings,Microsoft
+Coin Change,Microsoft
+Odd Even Linked List,Microsoft
+Longest Increasing Path in a Matrix,Microsoft
+Reconstruct Itinerary,Microsoft
+Longest Substring with At Most K Distinct Characters,Microsoft
+Flatten Nested List Iterator,Microsoft
+Reverse String,Microsoft
+Moving Average from Data Stream,Microsoft
+Top K Frequent Elements,Microsoft
+Design Tic-Tac-Toe,Microsoft
+Intersection of Two Arrays,Microsoft
+Intersection of Two Arrays II,Microsoft
+Rearrange String k Distance Apart,Microsoft
+Design Hit Counter,Microsoft
+Kth Smallest Element in a Sorted Matrix,Microsoft
+Insert Delete GetRandom O(1),Microsoft
+Insert Delete GetRandom O(1) - Duplicates allowed,Microsoft
+Ransom Note,Microsoft
+Shuffle an Array,Microsoft
+First Unique Character in a String,Microsoft
+UTF-8 Validation,Microsoft
+Decode String,Microsoft
+Evaluate Division,Microsoft
+Remove K Digits,Microsoft
+Frog Jump,Microsoft
+Queue Reconstruction by Height,Microsoft
+Fizz Buzz,Microsoft
+Add Strings,Microsoft
+Pacific Atlantic Water Flow,Microsoft
+Battleships in a Board,Microsoft
+Convert Binary Search Tree to Sorted Doubly Linked List,Microsoft
+Serialize and Deserialize N-ary Tree,Microsoft
+Flatten a Multilevel Doubly Linked List,Microsoft
+All O`one Data Structure,Microsoft
+Path Sum III,Microsoft
+Find All Anagrams in a String,Microsoft
+Find All Duplicates in an Array,Microsoft
+String Compression,Microsoft
+Add Two Numbers II,Microsoft
+Find All Numbers Disappeared in an Array,Microsoft
+Serialize and Deserialize BST,Microsoft
+Delete Node in a BST,Microsoft
+Circular Array Loop,Microsoft
+LFU Cache,Microsoft
+Island Perimeter,Microsoft
+Validate IP Address,Microsoft
+Implement Rand10() Using Rand7(),Microsoft
+Concatenated Words,Microsoft
+The Maze,Microsoft
+Target Sum,Microsoft
+Fibonacci Number,Microsoft
+Inorder Successor in BST II,Microsoft
+Find Largest Value in Each Tree Row,Microsoft
+Longest Palindromic Subsequence,Microsoft
+Coin Change 2,Microsoft
+Continuous Subarray Sum,Microsoft
+Random Pick with Weight,Microsoft
+Minesweeper,Microsoft
+K-diff Pairs in an Array,Microsoft
+Encode and Decode TinyURL,Microsoft
+Single Element in a Sorted Array,Microsoft
+Diameter of Binary Tree,Microsoft
+Boundary of Binary Tree,Microsoft
+Friend Circles,Microsoft
+Next Greater Element III,Microsoft
+Reverse Words in a String III,Microsoft
+Subarray Sum Equals K,Microsoft
+Permutation in String,Microsoft
+Subtree of Another Tree,Microsoft
+Task Scheduler,Microsoft
+Design Circular Queue,Microsoft
+Course Schedule III,Microsoft
+Exclusive Time of Functions,Microsoft
+Design Search Autocomplete System,Microsoft
+Palindromic Substrings,Microsoft
+Two Sum IV - Input is a BST,Microsoft
+Maximum Width of Binary Tree,Microsoft
+Trim a Binary Search Tree,Microsoft
+24 Game,Microsoft
+Valid Palindrome II,Microsoft
+Next Closest Time,Microsoft
+Knight Probability in Chessboard,Microsoft
+Top K Frequent Words,Microsoft
+Max Area of Island,Microsoft
+Insert into a Binary Search Tree,Microsoft
+Search in a Sorted Array of Unknown Size,Microsoft
+Kth Largest Element in a Stream,Microsoft
+Design HashMap,Microsoft
+Design Linked List,Microsoft
+Max Stack,Microsoft
+1-bit and 2-bit Characters,Microsoft
+Accounts Merge,Microsoft
+Remove Comments,Microsoft
+Find Pivot Index,Microsoft
+Minimum Window Subsequence,Microsoft
+My Calendar I,Microsoft
+Flood Fill,Microsoft
+Daily Temperatures,Microsoft
+Open the Lock,Microsoft
+Employee Free Time,Microsoft
+Reorganize String,Microsoft
+Basic Calculator III,Microsoft
+Sliding Puzzle,Microsoft
+Is Graph Bipartite?,Microsoft
+Valid Tic-Tac-Toe State,Microsoft
+Count Unique Characters of All Substrings of a Given String,Microsoft
+Flipping an Image,Microsoft
+Find And Replace in String,Microsoft
+Rectangle Overlap,Microsoft
+Backspace String Compare,Microsoft
+Longest Mountain in Array,Microsoft
+Maximize Distance to Closest Person,Microsoft
+All Nodes Distance K in Binary Tree,Microsoft
+Transpose Matrix,Microsoft
+Leaf-Similar Trees,Microsoft
+Middle of the Linked List,Microsoft
+Spiral Matrix III,Microsoft
+Sum of Subarray Minimums,Microsoft
+Snakes and Ladders,Microsoft
+Complete Binary Tree Inserter,Microsoft
+Shortest Bridge,Microsoft
+Knight Dialer,Microsoft
+Reveal Cards In Increasing Order,Microsoft
+Pancake Sorting,Microsoft
+K Closest Points to Origin,Microsoft
+Squares of a Sorted Array,Microsoft
+Distribute Coins in Binary Tree,Microsoft
+Time Based Key-Value Store,Microsoft
+Vertical Order Traversal of a Binary Tree,Microsoft
+Cousins in Binary Tree,Microsoft
+Rotting Oranges,Microsoft
+Max Consecutive Ones III,Microsoft
+Binary Search Tree to Greater Sum Tree,Microsoft
+Longest Duplicate Substring,Microsoft
+Letter Tile Possibilities,Microsoft
+Shortest Path in Binary Matrix,Microsoft
+Print Zero Even Odd,Microsoft
+Parallel Courses,Microsoft
+Longest Common Subsequence,Microsoft
+Binary Tree Coloring Game,Microsoft
+Number of Dice Rolls With Target Sum,Microsoft
+Swap For Longest Repeated Character Substring,Microsoft
+Day of the Week,Microsoft
+Design Bounded Blocking Queue,Microsoft
+Critical Connections in a Network,Microsoft
+Minimum Knight Moves,Microsoft
+Design Skiplist,Microsoft
+Meeting Scheduler,Microsoft
+Web Crawler,Microsoft
+Maximum Length of a Concatenated String with Unique Characters,Microsoft
+Palindrome Removal,Microsoft
+Minimum Remove to Make Valid Parentheses,Microsoft
+Find N Unique Integers Sum up to Zero,Microsoft
+Angle Between Hands of a Clock,Microsoft
+Bulb Switcher III,Microsoft
+Two Sum,Amazon
+Add Two Numbers,Amazon
+Longest Substring Without Repeating Characters,Amazon
+Median of Two Sorted Arrays,Amazon
+Longest Palindromic Substring,Amazon
+ZigZag Conversion,Amazon
+Reverse Integer,Amazon
+String to Integer (atoi),Amazon
+Palindrome Number,Amazon
+Regular Expression Matching,Amazon
+Container With Most Water,Amazon
+Integer to Roman,Amazon
+Roman to Integer,Amazon
+Longest Common Prefix,Amazon
+3Sum,Amazon
+3Sum Closest,Amazon
+Letter Combinations of a Phone Number,Amazon
+4Sum,Amazon
+Remove Nth Node From End of List,Amazon
+Valid Parentheses,Amazon
+Merge Two Sorted Lists,Amazon
+Generate Parentheses,Amazon
+Merge k Sorted Lists,Amazon
+Swap Nodes in Pairs,Amazon
+Reverse Nodes in k-Group,Amazon
+Remove Duplicates from Sorted Array,Amazon
+Implement strStr(),Amazon
+Divide Two Integers,Amazon
+Next Permutation,Amazon
+Longest Valid Parentheses,Amazon
+Search in Rotated Sorted Array,Amazon
+Find First and Last Position of Element in Sorted Array,Amazon
+Search Insert Position,Amazon
+Valid Sudoku,Amazon
+Sudoku Solver,Amazon
+Count and Say,Amazon
+Combination Sum,Amazon
+Combination Sum II,Amazon
+First Missing Positive,Amazon
+Trapping Rain Water,Amazon
+Multiply Strings,Amazon
+Wildcard Matching,Amazon
+Jump Game II,Amazon
+Permutations,Amazon
+Permutations II,Amazon
+Rotate Image,Amazon
+Group Anagrams,Amazon
+"Pow(x, n)",Amazon
+N-Queens,Amazon
+N-Queens II,Amazon
+Maximum Subarray,Amazon
+Spiral Matrix,Amazon
+Jump Game,Amazon
+Merge Intervals,Amazon
+Insert Interval,Amazon
+Spiral Matrix II,Amazon
+Rotate List,Amazon
+Unique Paths,Amazon
+Unique Paths II,Amazon
+Minimum Path Sum,Amazon
+Valid Number,Amazon
+Plus One,Amazon
+Add Binary,Amazon
+Text Justification,Amazon
+Sqrt(x),Amazon
+Climbing Stairs,Amazon
+Simplify Path,Amazon
+Edit Distance,Amazon
+Set Matrix Zeroes,Amazon
+Search a 2D Matrix,Amazon
+Sort Colors,Amazon
+Minimum Window Substring,Amazon
+Combinations,Amazon
+Subsets,Amazon
+Word Search,Amazon
+Search in Rotated Sorted Array II,Amazon
+Remove Duplicates from Sorted List II,Amazon
+Remove Duplicates from Sorted List,Amazon
+Largest Rectangle in Histogram,Amazon
+Maximal Rectangle,Amazon
+Partition List,Amazon
+Merge Sorted Array,Amazon
+Subsets II,Amazon
+Decode Ways,Amazon
+Reverse Linked List II,Amazon
+Restore IP Addresses,Amazon
+Binary Tree Inorder Traversal,Amazon
+Unique Binary Search Trees II,Amazon
+Unique Binary Search Trees,Amazon
+Interleaving String,Amazon
+Validate Binary Search Tree,Amazon
+Recover Binary Search Tree,Amazon
+Same Tree,Amazon
+Symmetric Tree,Amazon
+Binary Tree Level Order Traversal,Amazon
+Binary Tree Zigzag Level Order Traversal,Amazon
+Maximum Depth of Binary Tree,Amazon
+Construct Binary Tree from Preorder and Inorder Traversal,Amazon
+Construct Binary Tree from Inorder and Postorder Traversal,Amazon
+Binary Tree Level Order Traversal II,Amazon
+Convert Sorted Array to Binary Search Tree,Amazon
+Convert Sorted List to Binary Search Tree,Amazon
+Balanced Binary Tree,Amazon
+Path Sum,Amazon
+Path Sum II,Amazon
+Flatten Binary Tree to Linked List,Amazon
+Distinct Subsequences,Amazon
+Populating Next Right Pointers in Each Node,Amazon
+Populating Next Right Pointers in Each Node II,Amazon
+Pascal's Triangle,Amazon
+Triangle,Amazon
+Best Time to Buy and Sell Stock,Amazon
+Best Time to Buy and Sell Stock II,Amazon
+Best Time to Buy and Sell Stock III,Amazon
+Binary Tree Maximum Path Sum,Amazon
+Valid Palindrome,Amazon
+Word Ladder II,Amazon
+Word Ladder,Amazon
+Longest Consecutive Sequence,Amazon
+Sum Root to Leaf Numbers,Amazon
+Surrounded Regions,Amazon
+Palindrome Partitioning,Amazon
+Palindrome Partitioning II,Amazon
+Clone Graph,Amazon
+Gas Station,Amazon
+Candy,Amazon
+Single Number,Amazon
+Single Number II,Amazon
+Copy List with Random Pointer,Amazon
+Word Break,Amazon
+Word Break II,Amazon
+Linked List Cycle,Amazon
+Reorder List,Amazon
+Binary Tree Preorder Traversal,Amazon
+Binary Tree Postorder Traversal,Amazon
+LRU Cache,Amazon
+Sort List,Amazon
+Max Points on a Line,Amazon
+Evaluate Reverse Polish Notation,Amazon
+Reverse Words in a String,Amazon
+Maximum Product Subarray,Amazon
+Find Minimum in Rotated Sorted Array,Amazon
+Find Minimum in Rotated Sorted Array II,Amazon
+Min Stack,Amazon
+Read N Characters Given Read4 II - Call multiple times,Amazon
+Intersection of Two Linked Lists,Amazon
+One Edit Distance,Amazon
+Find Peak Element,Amazon
+Missing Ranges,Amazon
+Compare Version Numbers,Amazon
+Two Sum II - Input array is sorted,Amazon
+Majority Element,Amazon
+Excel Sheet Column Number,Amazon
+Binary Search Tree Iterator,Amazon
+Combine Two Tables,Amazon
+Second Highest Salary,Amazon
+Nth Highest Salary,Amazon
+Rank Scores,Amazon
+Largest Number,Amazon
+Consecutive Numbers,Amazon
+Employees Earning More Than Their Managers,Amazon
+Customers Who Never Order,Amazon
+Department Highest Salary,Amazon
+Department Top Three Salaries,Amazon
+Repeated DNA Sequences,Amazon
+Best Time to Buy and Sell Stock IV,Amazon
+Rotate Array,Amazon
+Word Frequency,Amazon
+Delete Duplicate Emails,Amazon
+House Robber,Amazon
+Binary Tree Right Side View,Amazon
+Number of Islands,Amazon
+Happy Number,Amazon
+Remove Linked List Elements,Amazon
+Count Primes,Amazon
+Isomorphic Strings,Amazon
+Reverse Linked List,Amazon
+Course Schedule,Amazon
+Implement Trie (Prefix Tree),Amazon
+Minimum Size Subarray Sum,Amazon
+Course Schedule II,Amazon
+Design Add and Search Words Data Structure,Amazon
+Word Search II,Amazon
+House Robber II,Amazon
+Shortest Palindrome,Amazon
+Kth Largest Element in an Array,Amazon
+Combination Sum III,Amazon
+Contains Duplicate,Amazon
+The Skyline Problem,Amazon
+Contains Duplicate II,Amazon
+Maximal Square,Amazon
+Count Complete Tree Nodes,Amazon
+Basic Calculator,Amazon
+Implement Stack using Queues,Amazon
+Invert Binary Tree,Amazon
+Basic Calculator II,Amazon
+Summary Ranges,Amazon
+Majority Element II,Amazon
+Kth Smallest Element in a BST,Amazon
+Implement Queue using Stacks,Amazon
+Number of Digit One,Amazon
+Palindrome Linked List,Amazon
+Lowest Common Ancestor of a Binary Search Tree,Amazon
+Lowest Common Ancestor of a Binary Tree,Amazon
+Delete Node in a Linked List,Amazon
+Product of Array Except Self,Amazon
+Sliding Window Maximum,Amazon
+Search a 2D Matrix II,Amazon
+Different Ways to Add Parentheses,Amazon
+Valid Anagram,Amazon
+Shortest Word Distance,Amazon
+Group Shifted Strings,Amazon
+Count Univalue Subtrees,Amazon
+Meeting Rooms,Amazon
+Meeting Rooms II,Amazon
+Binary Tree Paths,Amazon
+Single Number III,Amazon
+Graph Valid Tree,Amazon
+Trips and Users,Amazon
+Ugly Number II,Amazon
+Palindrome Permutation,Amazon
+Missing Number,Amazon
+Alien Dictionary,Amazon
+Closest Binary Search Tree Value,Amazon
+Closest Binary Search Tree Value II,Amazon
+Integer to English Words,Amazon
+Find the Celebrity,Amazon
+Perfect Squares,Amazon
+Move Zeroes,Amazon
+Peeking Iterator,Amazon
+Inorder Successor in BST,Amazon
+Walls and Gates,Amazon
+Find the Duplicate Number,Amazon
+Game of Life,Amazon
+Word Pattern,Amazon
+Find Median from Data Stream,Amazon
+Best Meeting Point,Amazon
+Serialize and Deserialize Binary Tree,Amazon
+Binary Tree Longest Consecutive Sequence,Amazon
+Bulls and Cows,Amazon
+Longest Increasing Subsequence,Amazon
+Remove Invalid Parentheses,Amazon
+Range Sum Query - Immutable,Amazon
+Range Sum Query 2D - Immutable,Amazon
+Range Sum Query - Mutable,Amazon
+Best Time to Buy and Sell Stock with Cooldown,Amazon
+Minimum Height Trees,Amazon
+Sparse Matrix Multiplication,Amazon
+Burst Balloons,Amazon
+Binary Tree Vertical Order Traversal,Amazon
+Count of Smaller Numbers After Self,Amazon
+Remove Duplicate Letters,Amazon
+Shortest Distance from All Buildings,Amazon
+Coin Change,Amazon
+Number of Connected Components in an Undirected Graph,Amazon
+Maximum Size Subarray Sum Equals k,Amazon
+Count of Range Sum,Amazon
+Odd Even Linked List,Amazon
+Longest Increasing Path in a Matrix,Amazon
+Reconstruct Itinerary,Amazon
+Largest BST Subtree,Amazon
+Increasing Triplet Subsequence,Amazon
+Self Crossing,Amazon
+Palindrome Pairs,Amazon
+House Robber III,Amazon
+Counting Bits,Amazon
+Nested List Weight Sum,Amazon
+Longest Substring with At Most K Distinct Characters,Amazon
+Flatten Nested List Iterator,Amazon
+Reverse String,Amazon
+Reverse Vowels of a String,Amazon
+Top K Frequent Elements,Amazon
+Design Tic-Tac-Toe,Amazon
+Intersection of Two Arrays,Amazon
+Intersection of Two Arrays II,Amazon
+Android Unlock Patterns,Amazon
+Data Stream as Disjoint Intervals,Amazon
+Design Snake Game,Amazon
+Russian Doll Envelopes,Amazon
+Line Reflection,Amazon
+Logger Rate Limiter,Amazon
+Bomb Enemy,Amazon
+Design Hit Counter,Amazon
+Find Leaves of Binary Tree,Amazon
+Largest Divisible Subset,Amazon
+Find K Pairs with Smallest Sums,Amazon
+Kth Smallest Element in a Sorted Matrix,Amazon
+Insert Delete GetRandom O(1),Amazon
+Linked List Random Node,Amazon
+Ransom Note,Amazon
+Shuffle an Array,Amazon
+First Unique Character in a String,Amazon
+Longest Absolute File Path,Amazon
+Find the Difference,Amazon
+Elimination Game,Amazon
+Is Subsequence,Amazon
+Decode String,Amazon
+Longest Substring with At Least K Repeating Characters,Amazon
+Evaluate Division,Amazon
+Remove K Digits,Amazon
+Frog Jump,Amazon
+Sum of Left Leaves,Amazon
+Queue Reconstruction by Height,Amazon
+Trapping Rain Water II,Amazon
+Longest Palindrome,Amazon
+Split Array Largest Sum,Amazon
+Fizz Buzz,Amazon
+Arithmetic Slices,Amazon
+Third Maximum Number,Amazon
+Add Strings,Amazon
+Partition Equal Subset Sum,Amazon
+Pacific Atlantic Water Flow,Amazon
+Battleships in a Board,Amazon
+Strong Password Checker,Amazon
+Maximum XOR of Two Numbers in an Array,Amazon
+Convert Binary Search Tree to Sorted Doubly Linked List,Amazon
+Construct Quad Tree,Amazon
+Flatten a Multilevel Doubly Linked List,Amazon
+All O`one Data Structure,Amazon
+Non-overlapping Intervals,Amazon
+Path Sum III,Amazon
+Find All Anagrams in a String,Amazon
+Find All Duplicates in an Array,Amazon
+String Compression,Amazon
+Add Two Numbers II,Amazon
+Find All Numbers Disappeared in an Array,Amazon
+Serialize and Deserialize BST,Amazon
+Delete Node in a BST,Amazon
+Sort Characters By Frequency,Amazon
+Minimum Number of Arrows to Burst Balloons,Amazon
+Minimum Moves to Equal Array Elements,Amazon
+Assign Cookies,Amazon
+132 Pattern,Amazon
+Repeated Substring Pattern,Amazon
+LFU Cache,Amazon
+Island Perimeter,Amazon
+Optimal Account Balancing,Amazon
+Count The Repetitions,Amazon
+Validate IP Address,Amazon
+Encode String with Shortest Length,Amazon
+Concatenated Words,Amazon
+Matchsticks to Square,Amazon
+Sliding Window Median,Amazon
+Max Consecutive Ones,Amazon
+Predict the Winner,Amazon
+Robot Room Cleaner,Amazon
+The Maze,Amazon
+Target Sum,Amazon
+Next Greater Element I,Amazon
+Diagonal Traverse,Amazon
+Next Greater Element II,Amazon
+Perfect Number,Amazon
+Fibonacci Number,Amazon
+Find Largest Value in Each Tree Row,Amazon
+Longest Palindromic Subsequence,Amazon
+Coin Change 2,Amazon
+Continuous Subarray Sum,Amazon
+Contiguous Array,Amazon
+Random Pick with Weight,Amazon
+Minesweeper,Amazon
+Encode and Decode TinyURL,Amazon
+Convert BST to Greater Tree,Amazon
+Minimum Time Difference,Amazon
+Single Element in a Sorted Array,Amazon
+Reverse String II,Amazon
+01 Matrix,Amazon
+Diameter of Binary Tree,Amazon
+Boundary of Binary Tree,Amazon
+Friend Circles,Amazon
+Next Greater Element III,Amazon
+Reverse Words in a String III,Amazon
+Maximum Depth of N-ary Tree,Amazon
+Subarray Sum Equals K,Amazon
+Find the Closest Palindrome,Amazon
+Permutation in String,Amazon
+Managers with at Least 5 Direct Reports,Amazon
+Subtree of Another Tree,Amazon
+Find Cumulative Salary of an Employee,Amazon
+Shortest Unsorted Continuous Subarray,Amazon
+Find Customer Referee,Amazon
+Customer Placing the Largest Number of Orders,Amazon
+Design In-Memory File System,Amazon
+N-ary Tree Postorder Traversal,Amazon
+Find Duplicate File in System,Amazon
+Valid Triangle Number,Amazon
+Average Salary: Departments VS Company,Amazon
+Merge Two Binary Trees,Amazon
+Task Scheduler,Amazon
+Design Circular Queue,Amazon
+Exchange Seats,Amazon
+Maximum Product of Three Numbers,Amazon
+Smallest Range Covering Elements from K Lists,Amazon
+Exclusive Time of Functions,Amazon
+Average of Levels in Binary Tree,Amazon
+Solve the Equation,Amazon
+Design Search Autocomplete System,Amazon
+Maximum Length of Pair Chain,Amazon
+Palindromic Substrings,Amazon
+Find Duplicate Subtrees,Amazon
+Two Sum IV - Input is a BST,Amazon
+Robot Return to Origin,Amazon
+Find K Closest Elements,Amazon
+Maximum Width of Binary Tree,Amazon
+Non-decreasing Array,Amazon
+Maximum Swap,Amazon
+Second Minimum Node In a Binary Tree,Amazon
+Longest Continuous Increasing Subsequence,Amazon
+Cut Off Trees for Golf Event,Amazon
+Valid Parenthesis String,Amazon
+Next Closest Time,Amazon
+Baseball Game,Amazon
+Redundant Connection,Amazon
+Repeated String Match,Amazon
+Knight Probability in Chessboard,Amazon
+Employee Importance,Amazon
+Top K Frequent Words,Amazon
+Number of Distinct Islands,Amazon
+Max Area of Island,Amazon
+Partition to K Equal Sum Subsets,Amazon
+Insert into a Binary Search Tree,Amazon
+Search in a Sorted Array of Unknown Size,Amazon
+Kth Largest Element in a Stream,Amazon
+Binary Search,Amazon
+Design HashMap,Amazon
+Insert into a Sorted Circular Linked List,Amazon
+Best Time to Buy and Sell Stock with Transaction Fee,Amazon
+Range Module,Amazon
+Max Stack,Amazon
+Accounts Merge,Amazon
+Find Pivot Index,Amazon
+Number of Atoms,Amazon
+Minimum Window Subsequence,Amazon
+My Calendar I,Amazon
+Flood Fill,Amazon
+Asteroid Collision,Amazon
+Sentence Similarity II,Amazon
+Daily Temperatures,Amazon
+Network Delay Time,Amazon
+Pyramid Transition Matrix,Amazon
+Employee Free Time,Amazon
+Partition Labels,Amazon
+Reorganize String,Amazon
+Basic Calculator IV,Amazon
+Jewels and Stones,Amazon
+Basic Calculator III,Amazon
+Global and Local Inversions,Amazon
+K-th Symbol in Grammar,Amazon
+Letter Case Permutation,Amazon
+Is Graph Bipartite?,Amazon
+Cheapest Flights Within K Stops,Amazon
+Valid Tic-Tac-Toe State,Amazon
+Rotate String,Amazon
+All Paths From Source to Target,Amazon
+Minimum Swaps To Make Sequences Increasing,Amazon
+Split Array With Same Average,Amazon
+Bus Routes,Amazon
+Most Common Word,Amazon
+Making A Large Island,Amazon
+Rectangle Overlap,Amazon
+Similar String Groups,Amazon
+Keys and Rooms,Amazon
+Guess the Word,Amazon
+Backspace String Compare,Amazon
+Maximize Distance to Closest Person,Amazon
+Peak Index in a Mountain Array,Amazon
+K-Similar Strings,Amazon
+Score of Parentheses,Amazon
+Lemonade Change,Amazon
+Shortest Subarray with Sum at Least K,Amazon
+All Nodes Distance K in Binary Tree,Amazon
+Prime Palindrome,Amazon
+Length of Longest Fibonacci Subsequence,Amazon
+Koko Eating Bananas,Amazon
+Middle of the Linked List,Amazon
+Boats to Save People,Amazon
+Uncommon Words from Two Sentences,Amazon
+Construct Binary Tree from Preorder and Postorder Traversal,Amazon
+Maximum Frequency Stack,Amazon
+Monotonic Array,Amazon
+Online Stock Span,Amazon
+Sort Array By Parity,Amazon
+Snakes and Ladders,Amazon
+Sort an Array,Amazon
+Word Subsets,Amazon
+Maximum Sum Circular Subarray,Amazon
+Minimum Add to Make Parentheses Valid,Amazon
+Sort Array By Parity II,Amazon
+Minimum Falling Path Sum,Amazon
+Reorder Data in Log Files,Amazon
+Range Sum of BST,Amazon
+Minimum Area Rectangle,Amazon
+Flip Equivalent Binary Trees,Amazon
+Verifying an Alien Dictionary,Amazon
+Prison Cells After N Days,Amazon
+Minimum Area Rectangle II,Amazon
+Univalued Binary Tree,Amazon
+Vowel Spellchecker,Amazon

@@ -136,7 +136,7 @@ def get_CMU_influence_firms(alumni_df):
     plt.title("CMU's influence in Major Tech Firms", fontsize=15)
 
     # plot legend
-    legend = plt.legend(loc='center',
+    plt.legend(loc='center',
                         frameon=False,
                         bbox_to_anchor=(0., 1.4, 1., 0),
                         mode='expand',
@@ -241,7 +241,7 @@ def get_cmu_and_other_school(alumni_df):
     plt.title("CMU's influence in Major Tech Firms", fontsize=15)
 
     # plot legend
-    legend = plt.legend(loc='center',
+    plt.legend(loc='center',
                         frameon=False,
                         bbox_to_anchor=(0., 1.4, 1., 0),
                         mode='expand',
@@ -251,4 +251,19 @@ def get_cmu_and_other_school(alumni_df):
 
     plt.show()
 
-# company_alumni_df[company_alumni_df.company == 'Meta']
+def get_company_alumni(company_name):
+    # filter schools from a combination of both schools and regions
+    countries = set([c.name for c in iso3166.countries])
+    company_df = pd.read_csv('./data_source/linkedin_companies.csv')
+    company_alumni_df = company_df[np.logical_and(
+        ['Area' not in geo for geo in company_df['university/region']]
+        , [all([geo not in country for country in countries]) for geo in company_df['university/region']])]
+    company_alumni_df = company_alumni_df[[geo not in {'London, United Kingdom',
+                                                       'INSEAD',
+                                                       'Trailhead by Salesforce',
+                                                       'Sydney, Australia'
+                                                       }  # manual
+                                           for geo in company_alumni_df['university/region']]]
+
+    print()
+    print(company_alumni_df[company_alumni_df.company == company_name])

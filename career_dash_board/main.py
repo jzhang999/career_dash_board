@@ -24,5 +24,7 @@ if __name__ == '__main__':
     ia.get_CMU_alumnus_firms(merged_data)
     ia.get_CMU_influence_firms(alumni_df)  # focus on CMU
     ia.get_cmu_and_other_school(alumni_df)
+    
+
 
 

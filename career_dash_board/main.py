@@ -27,4 +27,3 @@ if __name__ == '__main__':
     ia.get_cmu_and_other_school(alumni_df)
     ia.get_leetcode_data(leetcode_df)
 
-

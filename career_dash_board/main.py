@@ -58,7 +58,12 @@ if __name__ == '__main__':
     company = input("Please enter either of following {'amazon', 'meta', 'microsoft', 'google'}: ")
     year = input("Please enter the year you want to see: ")
     iq.get_interview_question(company, year)
+    
+    company_name = input("Enter the Company Name you interested in:  ")
+    company_set = {"Google", "Facebook", "Microsoft", "Amazon"}
+    if company_name not in company_set:
+        print("Sorry, we don't have the questions of " + company_name)
+    else:
+        ia.get_leetcode_data(leetcode_df, company_name)
 
-
-    lca.get_leetcode_data(leetcode_df)
 

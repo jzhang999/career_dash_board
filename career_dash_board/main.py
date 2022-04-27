@@ -1,6 +1,7 @@
 import pandas as pd
 import integrate_analysis as ia
 import leet_code_analysis as lca
+import get_interview_question as iq
 
 
 # help to merge all the data sources together into one single data frame
@@ -46,10 +47,17 @@ if __name__ == '__main__':
     merged_data = merge_data()
 
     # interact with the user for visualizations
-    visual_interaction()
+    # visual_interaction()
 
-    print("\n\nPlease choose a company you are most interested in: ")
-    company = input()
+    # interaction for console log info
+    # print("\n\nPlease choose a company you are most interested in to see alumini numbers")
+    # company = input("Please enter either of following {'Amazon', 'Meta', 'Microsoft', 'Salesforce', 'Google', 'Adobe', 'Apple'}: ")
+    # ia.get_company_alumni(company)
+
+    print("\n\nPlease choose a company you are most interested in to get interview questions")
+    company = input("Please enter either of following {'amazon', 'meta', 'microsoft', 'google'}: ")
+    year = input("Please enter the year you want to see: ")
+    iq.get_interview_question(company, year)
 
 
     lca.get_leetcode_data(leetcode_df)

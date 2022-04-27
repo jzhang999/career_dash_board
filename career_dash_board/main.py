@@ -1,5 +1,6 @@
 import pandas as pd
 import integrate_analysis as ia
+import leet_code_analysis as lca
 
 
 # help to merge all the data sources together into one single data frame
@@ -8,6 +9,27 @@ def merge_data():
     merged_df = pd.merge(alumni_df, salary_df, on="company", how="left")
 
     return merged_df
+
+
+def visual_interaction():
+    # interact with the user
+    print("Welcome to the career dash!!!!")
+    print("Please first see the job seeking info we have provided :)\n")
+    print("The first visualization info we provide is the "
+          "number of CMU Alumnus in Major Tech Firms with salary for SDE attached")
+    user_in = input("Please enter the word 'show' to see the visualization info, enter 'skip' to skip: ")
+    if user_in == 'show':
+        ia.get_CMU_alumnus_firms(merged_data)
+    else:
+        pass
+    print("\n\nThe second visualization info we provide is the "
+          "number of CMU Alumnus in Major Tech Firms compared with other universities")
+    user_in = input("Please enter the word 'show' to see the visualization info, enter 'skip' to skip: ")
+    if user_in == 'show':
+        ia.get_CMU_influence_firms(alumni_df)  # focus on CMU
+        ia.get_cmu_and_other_school(alumni_df)
+    else:
+        pass
 
 
 if __name__ == '__main__':
@@ -22,8 +44,13 @@ if __name__ == '__main__':
     salary_df = salary_df.loc[(salary_df['job_title'] == 'Software Engineer') & (salary_df['salary'] > 1.1e5)]
 
     merged_data = merge_data()
-    ia.get_CMU_alumnus_firms(merged_data)
-    ia.get_CMU_influence_firms(alumni_df)  # focus on CMU
-    ia.get_cmu_and_other_school(alumni_df)
-    ia.get_leetcode_data(leetcode_df)
+
+    # interact with the user for visualizations
+    visual_interaction()
+
+    print("\n\nPlease choose a company you are most interested in: ")
+    company = input()
+
+
+    lca.get_leetcode_data(leetcode_df)
 

@@ -39,16 +39,18 @@ def console_ui():
     company = input(
         "Please enter either of following {'Amazon', 'Meta', 'Microsoft', 'Salesforce', 'Google', 'Adobe', 'Apple'}: ")
     ia.get_company_alumni(company)
-    print("\n\nPlease choose a company you are most interested in to get interview questions")
-    company = input("Please enter either of following {'amazon', 'meta', 'microsoft', 'google'}: ")
-    year = input("Please enter the year you want to see: ")
-    iq.get_interview_question(company, year)
-    company_name = input("Enter the Company Name you interested in:  ")
+
+    company_name = input("Please enter the Company Name you interested in to get the online assessment questions: ")
     company_set = {"Google", "Facebook", "Microsoft", "Amazon"}
     if company_name not in company_set:
         print("Sorry, we don't have the questions of " + company_name)
     else:
         lca.get_leetcode_data(leetcode_df, company_name)
+
+    print("\n\nPlease choose a company you are most interested in to get interview questions")
+    company = input("Please enter either of following {'amazon', 'meta', 'microsoft', 'google'}: ")
+    year = input("Please enter the year you want to see: ")
+    iq.get_interview_question(company, year)
 
 
 if __name__ == '__main__':

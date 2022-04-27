@@ -45,6 +45,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/career_dash_board/data_source/meta.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/career_dash_board/data_source/microsoft.csv">
           <value>
             <Attribute>

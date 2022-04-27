@@ -33,6 +33,24 @@ def visual_interaction():
         pass
 
 
+def console_ui():
+    global company, year
+    print("\n\nPlease choose a company you are most interested in to see alumini numbers")
+    company = input(
+        "Please enter either of following {'Amazon', 'Meta', 'Microsoft', 'Salesforce', 'Google', 'Adobe', 'Apple'}: ")
+    ia.get_company_alumni(company)
+    print("\n\nPlease choose a company you are most interested in to get interview questions")
+    company = input("Please enter either of following {'amazon', 'meta', 'microsoft', 'google'}: ")
+    year = input("Please enter the year you want to see: ")
+    iq.get_interview_question(company, year)
+    company_name = input("Enter the Company Name you interested in:  ")
+    company_set = {"Google", "Facebook", "Microsoft", "Amazon"}
+    if company_name not in company_set:
+        print("Sorry, we don't have the questions of " + company_name)
+    else:
+        lca.get_leetcode_data(leetcode_df, company_name)
+
+
 if __name__ == '__main__':
     # preprocess the alumni data to sort it by alumni count
     alumni_df = pd.read_csv('./data_source/alumni.csv')
@@ -50,18 +68,4 @@ if __name__ == '__main__':
     visual_interaction()
 
     # interaction for console log info
-    print("\n\nPlease choose a company you are most interested in to see alumini numbers")
-    company = input("Please enter either of following {'Amazon', 'Meta', 'Microsoft', 'Salesforce', 'Google', 'Adobe', 'Apple'}: ")
-    ia.get_company_alumni(company)
-
-    print("\n\nPlease choose a company you are most interested in to get interview questions")
-    company = input("Please enter either of following {'amazon', 'meta', 'microsoft', 'google'}: ")
-    year = input("Please enter the year you want to see: ")
-    iq.get_interview_question(company, year)
-    
-    company_name = input("Enter the Company Name you interested in:  ")
-    company_set = {"Google", "Facebook", "Microsoft", "Amazon"}
-    if company_name not in company_set:
-        print("Sorry, we don't have the questions of " + company_name)
-    else:
-        lca.get_leetcode_data(leetcode_df, company_name)
+    console_ui()

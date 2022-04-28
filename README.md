@@ -41,7 +41,7 @@ Before all:
       - Or, if using the IDE, just click on the red underline, and let the ide install it for you
    2. Get Data:
       - Please click on the run button for the three files sequentially.
-        - Note: Please enter your Glassdoor credentials in the script to login successfully.
+        - Note: Please enter your Glassdoor credentials as we indicated by **TODO** in the script to login successfully.
       - Or find the `google.csv`, `amazon.csv`, `meta.csv` and `microsoft.csv` directly in the `/data_source` folder in the project. 
 
 ## Instructions for Running 

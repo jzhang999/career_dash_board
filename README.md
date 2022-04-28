@@ -1,4 +1,6 @@
 # career_dash_board
+## Video Link
+https://www.youtube.com/watch?v=HaqIjDyaFfk
 
 ## Group Members:
 - Jing Zhang: jingz4@andrew.cmu.edu

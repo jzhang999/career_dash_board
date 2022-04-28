@@ -45,6 +45,7 @@ Before all:
       - download `chrome driver` for your system and put it in a directory
         - use the link: https://chromedriver.chromium.org/downloads
       - modify the directory in `Service()` to be the directory of "chrome driver" as indicated by **TODO**
+        - Note: Please use raw string if you are using windows system.
       - run `pip install selenium` or `pip3 install selenium` in your terminal to install selenium
       - run `pip install webdriver_manager` or `pip3 install webdriver_manager` in your terminal to install webdriver_manager
       - other packages are the same, just use `pip install pacakge_name` or `pip3 install pacakge_name`

@@ -1,11 +1,15 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-
+"""
+Python script to analyze Leetcode data
+@author: Shu Wu
+"""
 
 def get_leetcode_data(dataFrame, company_name):
     count_dict = {}
     dataFrame1 = pd.read_csv('./data_source/download_questions.csv')
-
+    
+    #this is the data from leetcode API
     for idx in dataFrame.index:
         company = dataFrame['Company'][idx]
         if company != company_name:
@@ -17,6 +21,7 @@ def get_leetcode_data(dataFrame, company_name):
         else:
             count_dict[question] = 1
 
+    #this is the data I download
     for idx in dataFrame1.index:
         company = dataFrame1['Company'][idx]
         if company != company_name:

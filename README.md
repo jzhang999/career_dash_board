@@ -30,7 +30,7 @@
     2. Get Data:
        - Please click on the run button for the three files sequentially.
          - Note: Please enter your Glassdoor credentials in the script to login successfully.
-       - Or find the "google.csv", "amazon.csv", "meta.csv" and "microsoft.csv" directly in the '/data_source' folder in the project. 
+       - Or find the `google.csv`, `amazon.csv`, `meta.csv` and `microsoft.csv` directly in the '/data_source' folder in the project. 
 
 ## Instructions for Running 
 

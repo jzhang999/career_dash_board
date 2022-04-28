@@ -1,7 +1,12 @@
 from requests import Session
 import json
 import pandas as pd
+"""
+Python script to get the Leetcode data
+@author: Shu Wu
+"""
 
+#baseurl
 us =  {
     "base": "https://leetcode.com/",
     "graphql": "https://leetcode.com/graphql",

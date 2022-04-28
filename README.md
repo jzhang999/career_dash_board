@@ -18,8 +18,6 @@ Before all:
 - We would use selenium in our scraping
 - So please download `chrome driver` for your system and put it in a directory
   - use the link: https://chromedriver.chromium.org/downloads
-  - Help WebDriver find the downloaded ChromeDriver executable
-    - modify the directory in `Service()` to be the directory of "chrome driver" as indicated by **TODO**, if needed
 
 1. Run the `alumini_scraping.py` script to get alumni numbers:
    1. Environment Set-up:

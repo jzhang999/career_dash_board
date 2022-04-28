@@ -63,8 +63,8 @@ class Graphql_API:
         return json.loads(s.content)["data"]["recentSubmissionList"]
 
 if __name__ == '__main__':
-    username = 'xxx'
-    password = 'xxx'
+    username = 'xxx' #TODO:fill username
+    password = 'xxx' #TODO:fill password
     model = Graphql_API(username, password)
 
     submitData = model.getRecentSubs(username)

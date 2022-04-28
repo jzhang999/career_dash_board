@@ -35,7 +35,7 @@ import numpy as np
 
 options = webdriver.ChromeOptions()
 
-s = Service(r'C:\Users\watercross\Downloads\chromedriver_win32\chromedriver.exe')
+s = Service(r'C:\Users\watercross\Downloads\chromedriver_win32\chromedriver.exe')  # TODO: modify it
 driver = webdriver.Chrome(service=s)
 username = "XXXXXXXX" # TODO: please fill in please
 password = "XXXXXXXX" # TODO: please fill in please

@@ -47,8 +47,8 @@ def console_ui():
     ia.get_company_alumni(company)
 
     print("\n\nPlease enter the Company Name you interested in to get the online assessment questions")
-    company_name = input("Please enter either of following {'Google', 'Facebook', 'Microsoft', 'Amazon'}: ")
-    company_set = {"Google", "Facebook", "Microsoft", "Amazon"}
+    company_name = input("Please enter either of following {'Google', 'Facebook', 'Microsoft', 'Amazon', 'Apple', 'Bloomberg', 'DoorDash'}: ")
+    company_set = {"Google", "Facebook", "Microsoft", "Amazon", "Apple", "Bloomberg", "DoorDash"}
     if company_name not in company_set:
         print("Sorry, we don't have the questions of " + company_name)
     else:

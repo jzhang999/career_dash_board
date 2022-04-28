@@ -22,8 +22,8 @@ def login(driver):
     username = driver.find_element_by_xpath('//input[@id="session_key"]')
     password = driver.find_element_by_xpath('//input[@id="session_password"]')
     signin_button = driver.find_element_by_xpath('//button[@class="sign-in-form__submit-button"]')
-    username.send_keys('your username')  # fill in please
-    password.send_keys('your password')  # fill in please
+    username.send_keys('your username')  # TODO: fill in please
+    password.send_keys('your password')  # TODO: fill in please
     signin_button.click()
     wait(driver, 1)
     print('successfully logged in!')

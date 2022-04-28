@@ -27,8 +27,8 @@ class Spider(object):
 
         # login
         self.driver.get("https://www.glassdoor.com/member/home/index.htm")
-        self.driver.find_element_by_id('inlineUserEmail').send_keys("your user name") # fill in please
-        self.driver.find_element_by_id('inlineUserPassword').send_keys("your password") # fill in please
+        self.driver.find_element_by_id('inlineUserEmail').send_keys("your user name") # TODO: fill in please
+        self.driver.find_element_by_id('inlineUserPassword').send_keys("your password") # TODO: fill in please
         self.driver.find_element_by_xpath('//*[@id="InlineLoginModule"]/div/div[1]/div/form/div[3]/button').click()
 
         # load the page

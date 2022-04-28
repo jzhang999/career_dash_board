@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=HaqIjDyaFfk
 
 ## Group Members:
 - Jing Zhang: jingz4@andrew.cmu.edu
+- Shu Wu: shuwu@andrew.cmu.edu
+
 
 ## Instructions for Getting Data
 Before all: 

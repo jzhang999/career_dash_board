@@ -1,11 +1,17 @@
 # Career Dash Board
-## Video Link:
-https://www.youtube.com/watch?v=HaqIjDyaFfk
-
 ## Group Members:
 - Jing Zhang: jingz4@andrew.cmu.edu
 - Shu Wu: shuwu@andrew.cmu.edu
 - Iris Hu: yuehu@andrew.cmu.edu
+- Jie Shen: jieshen@andrew.cmu.edu
+
+## Video Link:
+https://www.youtube.com/watch?v=HaqIjDyaFfk
+
+## How We Got Data:
+- `alumni.csv`, `linkedin_companies.csv`, `company_salary_info.csv`, `google.csv`, `amazon.csv`, `meta.csv` and `microsoft.csv` are all from scraping
+- `leetcode_data.csv` is from API
+- `download_questions.csv` is from online download
 
 ## Instructions for Getting Data
 Before all: 
@@ -24,7 +30,7 @@ Before all:
    3. Get Data:
       - Please just click on the run button for this script to get data (scraping takes long time)
         - Note: please enter your credentials in the script as we indicated by **TODO** to login successfully.
-      - Or find the `alumni.csv` directly in the `/data_source` folder in the project
+      - Or find the `alumni.csv` and `linkedin_companies.csv` directly in the `/data_source` folder in the project
 
 2. Run the `salary_scraping.py` script to get company salary:
    1. Environment Set-up:

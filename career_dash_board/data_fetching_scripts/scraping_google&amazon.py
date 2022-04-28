@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 22 12:08:56 2022
+Python script to get the interview questions for Google and Amazon
 
 @author: jieshen
 """
@@ -19,7 +19,7 @@ import numpy as np
 
 options = webdriver.ChromeOptions()
 
-s = Service(r'C:\Users\watercross\Downloads\chromedriver_win32\chromedriver.exe') # TODO: modify it
+s = Service(r'C:\Users\watercross\Downloads\chromedriver_win32\chromedriver.exe') # TODo:add your driver directory here
 driver = webdriver.Chrome(service=s)
 username = "XXXXXXXX" # TODO: please fill in please
 password = "XXXXXXXX" # TODO: please fill in please

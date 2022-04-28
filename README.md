@@ -1,4 +1,6 @@
 # career_dash_board
+## Video Link
+https://www.youtube.com/watch?v=HaqIjDyaFfk
 
 ## Instructions for Getting Data
 Before all: 

@@ -1,7 +1,7 @@
 
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 22 12:08:56 2022
+Python script to get the interview questions for Meta
 
 @author: jieshen
 """

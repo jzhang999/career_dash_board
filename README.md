@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=HaqIjDyaFfk
 - Jing Zhang: jingz4@andrew.cmu.edu
 - Shu Wu: shuwu@andrew.cmu.edu
 - Iris Hu: yuehu@andrew.cmu.edu
+- Jie Shen: jieshen@andrew.cmu.edu
 
 ## Instructions for Getting Data
 Before all: 

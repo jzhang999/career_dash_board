@@ -1,4 +1,9 @@
-# coding=utf-8
+# -*- coding: utf-8 -*-
+"""
+Python script to get the salary info for big tech companies
+
+@author: Jing Zhang
+"""
 import time
 import csv
 

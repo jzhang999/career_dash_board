@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Python script to get the alumni numbers for universities
+
+@author: Jing Zhang
+"""
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
@@ -94,9 +101,6 @@ def get_alumni_by_company(target_company,
 if __name__ == '__main__':
     options = Options()
     options.headless = True
-    # driver = webdriver.Chrome(options=options)
-    # driver.set_window_size(1920, 1080)
-    # driver.maximize_window()
 
     # create Chrome
     driver = webdriver.Chrome(ChromeDriverManager().install())
@@ -107,6 +111,7 @@ if __name__ == '__main__':
     company_table = []
     companies = ['meta', 'amazon', 'apple', 'google', 'microsoft', 'salesforce', 'adobe']
 
+    # get all company info we needed
     for company in companies:
         all_schools_info = get_all_schools_info(driver, company)
         for school, alumni in all_schools_info.items():

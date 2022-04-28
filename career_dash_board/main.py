@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Python script to drive the whole project
+
+@author: Jing Zhang
+"""
 import pandas as pd
 import integrate_analysis as ia
 import leet_code_analysis as lca

@@ -1,25 +1,11 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 22 19:30:38 2022
-
-@author: watercross
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 22 12:45:40 2022
-
-@author: watercross
-"""
 
 # -*- coding: utf-8 -*-
 """
 Created on Fri Apr 22 12:08:56 2022
 
-@author: watercross
+@author: jieshen
 """
 
-# -*- coding: utf-8 -*-
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver

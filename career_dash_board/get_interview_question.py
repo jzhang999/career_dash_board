@@ -14,16 +14,13 @@ def get_interview_question(selected_company_name, selected_year):
     meta_df = pd.read_csv('./data_source/meta.csv')
     microsoft_df = pd.read_csv('./data_source/microsoft.csv')
 
-    interview_merge = google_df.append(amazon_df)
-
-    interview_merge = interview_merge.append(meta_df)
-
-    interview_merge = interview_merge.append(microsoft_df)
+    interview_merge = pd.concat([google_df, amazon_df, meta_df, microsoft_df])
 
     interview_merge['d'] = pd.to_datetime(interview_merge['date'])
     interview_merge['y'] = interview_merge['d'].dt.year
-    # print(interview_merge['y'])
+
     include = interview_merge[interview_merge['y'] == int(selected_year)]
+    print()
 
     if len(include.index) > 0:
         i = 0

@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Python script to merge all the data and do visualization for main to render
+
+@author: Jing Zhang
+"""
+
 # From the university's perspective, where did Tartans go?
 import iso3166
 import pandas as pd

@@ -1,12 +1,15 @@
 # career_dash_board
 
+## Group Members:
+- Jing Zhang: jingz4@andrew.cmu.edu
+
 ## Instructions for Getting Data
 Before all: 
 - We would use selenium in our scraping
 - So please download `chrome driver` for your system and put it in a directory
   - use the link: https://chromedriver.chromium.org/downloads
-  - here is the instructions for using chrome driver: https://chromedriver.chromium.org/getting-started
-- modify the directory in Service() to be the directory of "chrome driver"
+  - Help WebDriver find the downloaded ChromeDriver executable
+    - modify the directory in `Service()` to be the directory of "chrome driver" as indicated by **TODO**
 
 1. Run the `alumini_scraping.py` script to get alumni numbers:
    1. Environment Set-up:
@@ -33,7 +36,7 @@ Before all:
    1. Environment Set-up:
       - download `chrome driver` for your system and put it in a directory
         - use the link: https://chromedriver.chromium.org/downloads
-      - modify the directory in Service() to be the directory of "chrome driver"
+      - modify the directory in `Service()` to be the directory of "chrome driver" as indicated by **TODO**
       - run `pip install selenium` or `pip3 install selenium` in your terminal to install selenium
       - run `pip install webdriver_manager` or `pip3 install webdriver_manager` in your terminal to install webdriver_manager
       - other packages are the same, just use `pip install pacakge_name` or `pip3 install pacakge_name`

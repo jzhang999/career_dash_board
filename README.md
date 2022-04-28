@@ -1,4 +1,3 @@
-
 # career_dash_board
 
 ## Instructions for Getting Data
@@ -30,7 +29,7 @@ Before all:
         - Note: please enter your credentials in the script as we indicated by **TODO** to login successfully.
       - Or find the `company_salary_info.csv` directly in the `/data_source` folder in the project
  
-3. run `scraping_google&amazon.py`, `scraping_meta.py`, `scraping_microsoft.py` to get interview questions:
+3. Run `scraping_google&amazon.py`, `scraping_meta.py`, `scraping_microsoft.py` to get interview questions:
    1. Environment Set-up:
       - download `chrome driver` for your system and put it in a directory
         - use the link: https://chromedriver.chromium.org/downloads
@@ -43,6 +42,13 @@ Before all:
       - Please click on the run button for the three files sequentially.
         - Note: Please enter your Glassdoor credentials as we indicated by **TODO** in the script to login successfully.
       - Or find the `google.csv`, `amazon.csv`, `meta.csv` and `microsoft.csv` directly in the `/data_source` folder in the project. 
+
+4. Run the `leetmodel_model.py` to get leet code data from Api:
+   1. Get Data:
+      - Please click on the run button for the three files sequentially.
+        - Note: Please enter your Leet code credentials as we indicated by **TODO** in the script to login successfully.
+        - You may have more leet code credentials to get more data than us
+      - Or find the `leetcode_data.csv` directly in the `/data_source` folder in the project. 
 
 ## Instructions for Running 
 1. Use the IDE like pyCharm and click the run for the `main.py`

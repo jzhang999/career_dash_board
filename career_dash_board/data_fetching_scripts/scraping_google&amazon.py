@@ -23,8 +23,8 @@ options = webdriver.ChromeOptions()
 
 s = Service(r'C:\Users\watercross\Downloads\chromedriver_win32\chromedriver.exe')
 driver = webdriver.Chrome(service=s)
-username = "ilmhsusan@gmail.com"
-password = "Mau67%kkk"
+username = "XXXXXXX" # TODO: fill in please
+password = "XXXXXXX" # TODO: fill in please
 seq = 0
 
 def scraping_company(company_name):

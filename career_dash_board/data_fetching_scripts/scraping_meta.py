@@ -37,6 +37,8 @@ options = webdriver.ChromeOptions()
 
 s = Service(r'C:\Users\watercross\Downloads\chromedriver_win32\chromedriver.exe')
 driver = webdriver.Chrome(service=s)
+username = "XXXXXXX" # TODO: fill in please
+password = "XXXXXXX" # TODO: fill in please
 
 def scraping_company(company_name):
     url = 'https://www.glassdoor.com/Interview/pittsburgh-' + company_name + '-interview-questions-SRCH_IL.0,10_IM684_KE11,17.htm?clickSource=searchBtn'
@@ -65,8 +67,8 @@ def scraping_company(company_name):
     name = driver.find_element(By.ID, "hardsellUserEmail" )
     
     pwd = driver.find_element(By.ID, "hardsellUserPassword")
-    name.send_keys("ilmhsusan@gmail.com")
-    pwd.send_keys("Mau67%kkk")
+    name.send_keys(username)
+    pwd.send_keys(password)
     
     driver.find_element(By.XPATH,'//*[@id="HardsellOverlay"]/div/div/div/div/div[1]/div/form/div[3]/button').click()
     delay = 100
